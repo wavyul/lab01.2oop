@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project2\\LB.01.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|D:\\project2\\LB.01.3\\LB.01.3\\longLong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|solutionrelative:LB.01.3\\longLong.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|D:\\project2\\LB.01.3\\LB.01.3\\longLong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|solutionrelative:LB.01.3\\longLong.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|D:\\project2\\LB.01.3\\LB.01.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51E13D12-C659-496E-B102-8DB647E6DF20}|LB.01.3\\LB.01.3.vcxproj|solutionrelative:LB.01.3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02FBF128-7E0C-44A6-A25C-40C7D99C84F5}|UnitTest1.03\\UnitTest1.03.vcxproj|D:\\project2\\LB.01.3\\UnitTest1.03\\UnitTest1.03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02FBF128-7E0C-44A6-A25C-40C7D99C84F5}|UnitTest1.03\\UnitTest1.03.vcxproj|solutionrelative:UnitTest1.03\\UnitTest1.03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project2\\LB.01.3\\LB.01.3\\main.cpp",
+              "RelativeDocumentMoniker": "LB.01.3\\main.cpp",
+              "ToolTip": "D:\\project2\\LB.01.3\\LB.01.3\\main.cpp",
+              "RelativeToolTip": "LB.01.3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T19:22:12.3Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "longLong.cpp",
+              "DocumentMoniker": "D:\\project2\\LB.01.3\\LB.01.3\\longLong.cpp",
+              "RelativeDocumentMoniker": "LB.01.3\\longLong.cpp",
+              "ToolTip": "D:\\project2\\LB.01.3\\LB.01.3\\longLong.cpp",
+              "RelativeToolTip": "LB.01.3\\longLong.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T19:26:56.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "longLong.h",
+              "DocumentMoniker": "D:\\project2\\LB.01.3\\LB.01.3\\longLong.h",
+              "RelativeDocumentMoniker": "LB.01.3\\longLong.h",
+              "ToolTip": "D:\\project2\\LB.01.3\\LB.01.3\\longLong.h*",
+              "RelativeToolTip": "LB.01.3\\longLong.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-13T19:23:06.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.03.cpp",
+              "DocumentMoniker": "D:\\project2\\LB.01.3\\UnitTest1.03\\UnitTest1.03.cpp",
+              "RelativeDocumentMoniker": "UnitTest1.03\\UnitTest1.03.cpp",
+              "ToolTip": "D:\\project2\\LB.01.3\\UnitTest1.03\\UnitTest1.03.cpp",
+              "RelativeToolTip": "UnitTest1.03\\UnitTest1.03.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T20:00:22Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
